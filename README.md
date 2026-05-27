@@ -5,6 +5,13 @@ Built as a Full Stack College Assignment (2026) by **Trikam Devasi**.
 
 ---
 
+## 📖 API Documentation
+
+Access the interactive API documentation at:
+👉 **[Live API Documentation](https://trikamdevasi-s-team.docs.buildwithfern.com)**
+
+---
+
 ## 📁 Folder Structure
 
 ```
